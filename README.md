@@ -12,7 +12,7 @@ STF_SSM soil moisture maps (1 km, 3-hourly)
 Local weather features (temperature, rainfall, humidity, solar radiation, etc.)
 Feature engineering to capture rainfall events, drying trends, and more
 
-Research into if local weather features could be predictors for soil moisture as sensed by SMAP in conjunction with STF_SSM.
+This project researches into if local weather features could be predictors for soil moisture as sensed by SMAP in conjunction with STF_SSM.
 
 
 
