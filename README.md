@@ -14,5 +14,7 @@ Feature engineering to capture rainfall events, drying trends, and more
 
 This project researches into if local weather features could be predictors for soil moisture as sensed by SMAP in conjunction with STF_SSM.
 
+Yielded that soil moisture is highly autocorrelated but IS correlated with local humidity. Random Forest R^2 = 0.84, MSE = 0.02.
+
 
 
